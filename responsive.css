@@ -1,0 +1,29 @@
+@media (min-width: 768px) {
+  body {
+    padding: 23px 24px 0 25px;
+  }
+  form {
+    margin: 0;
+    gap: 24px;
+  }
+  h1 {
+    font-size: 32px;
+    margin: 0;
+  }
+  main {
+    gap: 29px;
+    padding: 0;
+  }
+  .body_img {
+    width: 220px;
+    height: 140px;
+  }
+  .year,
+  .category,
+  .rating {
+    font-size: 13px;
+  }
+  .title {
+    font-size: 18px;
+  }
+}
